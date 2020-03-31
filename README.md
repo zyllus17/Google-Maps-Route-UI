@@ -1,4 +1,4 @@
-#<p align="center">Google Maps Route UI</p>
+#Google Maps Route UI
 
 UI made using Flutter for directional route on how to reach from Point A to Point B
 
@@ -10,7 +10,7 @@ UI made using Flutter for directional route on how to reach from Point A to Poin
     </tr>
     <tr>
         <p align="center">
-        <td><img src="screenshots\Screenshot_1585662120.png" width=300 height=480></td>
+        <td><img src="screenshots\Screenshot_1585662120.png" width=300 height=520></td>
         </p>
     </tr>
   </table>
